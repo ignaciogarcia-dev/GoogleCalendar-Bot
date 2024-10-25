@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Env files (archivos de variables de entorno con claves API, tokens, etc.)
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Directorios del sistema operativo o IDE
+.DS_Store
+.vscode/
+
+# Archivos temporales
+*.tmp
